@@ -21,9 +21,9 @@ I'm Trương Văn Công, a software engineer enthusiast with a passion for Progr
 ## 📫 Contact
 
 - **Email:** truongvancong230502@gmail.com
+<!-- 
 - **LinkedIn:** [link to your LinkedIn profile]
 - **Twitter:** [link to your Twitter profile]
-<!-- 
 ## 📝 Blog
 
 I also write blogs on topics like [topics you write about: Programming, Technology, Personal Development, etc.]. You can read my articles at [link to your blog].
