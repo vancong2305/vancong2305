@@ -14,7 +14,7 @@ I'm Trương Văn Công, a software engineer enthusiast with a passion for Progr
 
 ## 📚 Featured Projects
 
-- [(memorize-english-vocabulary](https://github.com/vancong2305/memorize-english-vocabulary)): 
+- [memorize-english-vocabulary](https://github.com/vancong2305/memorize-english-vocabulary): 
 The project helps everybody remember vocabulary better.
 ## 📫 Contact
 
