@@ -14,8 +14,11 @@ I'm Trương Văn Công, a software engineer enthusiast with a passion for Progr
 
 ## 📚 Featured Projects
 
-- [memorize-english-vocabulary](https://github.com/vancong2305/memorize-english-vocabulary): 
-The project helps everybody remember vocabulary better.
+- **Project 1:** [memorize-english-vocabulary](https://github.com/vancong2305/memorize-english-vocabulary): Role: Lead. The project helps everybody remember vocabulary better. It is in development stage.
+- **Project 2:** [medimate-server](https://github.com/vancong2305/medimate-server): 
+Role: Lead. The project is backend about drugstore. Contain restful api permit enduser login, buy medicine, etc. Call api from Google, Momo, etc.
+- **Project 3:** [ClientSellingMedicine](https://github.com/phamdangkhoagh/ClientSellingMedicine): 
+Role: Member. The project is frontend about drugstore. I got my team help writing a login screen with google, notification screen.
 ## 📫 Contact
 
 - **Email:** truongvancong230502@gmail.com
