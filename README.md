@@ -28,9 +28,9 @@ I also write blogs on topics like [topics you write about: Programming, Technolo
 -->
 ## 🎯 Goals
 
-- Goal 1: Complete a major project
-- Goal 2: Continuous learning and improvement
-- Goal 3: Become a full stack programmer
+- **Goal 1:** Complete a major project
+- **Goal 2:** Continuous learning and improvement
+- **Goal 3:** Become a full stack programmer
 
 ## 🤝 Collaboration
 
