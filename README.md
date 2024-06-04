@@ -1,41 +1,41 @@
-# 👋 Xin Chào! Tôi Là [Trương Văn Công]
+# 👋 Hello! I'm Trương Văn Công
 
-Chào mừng bạn đến với trang GitHub của tôi!
+Welcome to my GitHub page!
 
-## 🌟 Giới Thiệu
+## 🌟 About Me
 
-Tôi là [Trương Văn Công], một [kỹ sư phần mềm] tương lai với niềm đam mê [App Development,Web Development, v.v.]. Tôi thích học hỏi những công nghệ mới và xây dựng các dự án thú vị.
+I'm Trương Văn Công, a software engineer enthusiast with a passion for Programming, Web Development, App Development, etc. I love learning new technologies and building exciting projects.
 
-## 🛠️ Kỹ Năng
+## 🛠️ Skills
 
-- **Ngôn Ngữ Lập Trình:** [Danh sách các ngôn ngữ lập trình bạn sử dụng: Python, JavaScript, C++, v.v.]
-- **Công Nghệ và Khung:** [Danh sách các công nghệ và khung bạn sử dụng: React, Node.js, TensorFlow, v.v.]
-- **Công Cụ và Nền Tảng:** [Danh sách các công cụ và nền tảng bạn sử dụng: Git, Docker, AWS, v.v.]
+- **Programming Languages:** Java, Python, Php, etc.
+- **Technologies and Frameworks:** React, Spring Boot, Laravel, etc
+- **Tools and Platforms:** Git, Docker, AWS, etc.
 
-## 📚 Dự Án Nổi Bật
+## 📚 Featured Projects
 
-- [Tên Dự Án 1](link đến dự án): Mô tả ngắn gọn về dự án này.
-- [Tên Dự Án 2](link đến dự án): Mô tả ngắn gọn về dự án này.
-- [Tên Dự Án 3](link đến dự án): Mô tả ngắn gọn về dự án này.
+- [Project Name 1](link to project): A brief description of this project.
+- [Project Name 2](link to project): A brief description of this project.
+- [Project Name 3](link to project): A brief description of this project.
 
-## 📫 Liên Hệ
+## 📫 Contact
 
-- **Email:** [địa chỉ email của bạn]
-- **LinkedIn:** [link đến trang LinkedIn của bạn]
-- **Twitter:** [link đến trang Twitter của bạn]
-
+- **Email:** truongvancong230502@gmail.com
+- **LinkedIn:** [link to your LinkedIn profile]
+- **Twitter:** [link to your Twitter profile]
+<!-- 
 ## 📝 Blog
 
-Tôi cũng viết blog về các chủ đề như [các chủ đề bạn viết blog: Lập trình, Công nghệ, Phát triển cá nhân, v.v.]. Bạn có thể đọc các bài viết của tôi tại [link đến blog của bạn].
+I also write blogs on topics like [topics you write about: Programming, Technology, Personal Development, etc.]. You can read my articles at [link to your blog].
+-->
+## 🎯 Goals
 
-## 🎯 Mục Tiêu
+- Goal 1: Complete a major project
+- Goal 2: Continuous learning and improvement
+- Goal 3: Become a full stack programmer
 
-- [Mục tiêu 1 của bạn: Học một công nghệ mới, hoàn thành một dự án lớn, v.v.]
-- [Mục tiêu 2 của bạn]
-- [Mục tiêu 3 của bạn]
+## 🤝 Collaboration
 
-## 🤝 Hợp Tác
+I’m always open to collaborating with like-minded individuals. If you have an idea or project you'd like to work on together, feel free to reach out!
 
-Tôi luôn sẵn lòng hợp tác với những người có cùng đam mê. Nếu bạn có ý tưởng hoặc dự án nào đó muốn cùng nhau phát triển, hãy liên hệ với tôi!
-
-Cảm ơn bạn đã ghé thăm! Hãy nhấn nút "Follow" để cập nhật những dự án mới nhất của tôi.
+Thank you for visiting! Hit the "Follow" button to stay updated with my latest projects.
